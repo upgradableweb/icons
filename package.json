@@ -1,0 +1,15 @@
+{
+  "name": "@upgradableweb/icons",
+  "version": "1.0.0",
+  "description": "svg icons for your projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "icons",
+    "react-icons"
+  ],
+  "author": "Bharat",
+  "license": "MIT"
+}
